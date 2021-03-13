@@ -19,3 +19,17 @@ ZCZC W01  45 L04 GitHub Pages: ATM from cbkadal
 ZCZC W01  30 L23 Discord: Read Announcement, General, and FAQ
 ZCZC W01 120 L17 Assignment #7 : GSGS for Top 10 List
 ZCZC W01  60 L09 AsDos: Discussing via gmeet
+ZCZC W02 100 L02 ZOOM Related
+ZCZC W02  20 L01 Scele related : Pop Quiz
+ZCZC W02  60 L08 Trying something : Connect to badak
+ZCZC W02  30 L12 Assignment #2 : Trying Demo Week2
+ZCZC W02  10 L13 Assignment #3 : Generate GnuPG
+ZCZC W02  10 L14 Assignment #4 : Import OS PubKey
+ZCZC W02  10 L15 Assignment #5 : Export PubKey to TXT folder
+ZCZC W02 100 L16 Assignment #6 : Read 10 next closest neighbors and update myrank
+ZCZC W02 160 L17 Assignment #7 : GSGS and updating my TOP 10 List
+ZCZC W02  10 L18 Assignment #8 : copy myscript from cbkadal
+ZCZC W02  15 L19 Assignment #9 : Updating mylog
+ZCZC W02  10 L20 Assignment #10 : Make SHAS56
+ZCZC W02  45 L23 Discord : Reading discussion, faq, general, etc
+ZCZC W02  30 L06 Reading slide and some references
