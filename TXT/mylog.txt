@@ -41,3 +41,10 @@ ZCZC W03   5 L13 Checking .bash_aliases
 ZCZC W03  40 L14 Read 10 next closest neighbors and update myrank
 ZCZC W03 100 L15 GSGS and updating my TOP 10 List
 ZCZC W03  90 L17 Update script, tarballed W03, etc
+ZCZC W04 100 L02 Zoom Related
+ZCZC W04  30 L01 Scele Related
+ZCZC W04  20 L11 Reading reference
+ZCZC W04  25 L12 Trying Demo
+ZCZC W04  45 L13 Read 10 next neighbor's article
+ZCZC W04 120 L14 GSGS and update my TOP 10 List
+ZCZC W04  60 L08 Trying to connect os211.vlsm.org via ssh
