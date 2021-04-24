@@ -58,3 +58,11 @@ ZCZC W05 130 L13 GSGS and adding TOP 10 List
 ZCZC W05  20 L14 Assignment#4
 ZCZC W05   5 L15 Assignment#5
 ZCZC W05   1 L16 Assignment#6
+ZCZC W06  60 L01 Scele Related
+ZCZC W06 100 L02 Zoom Related
+ZCZC W06  60 L11 Read some reference
+ZCZC W06  40 L12 Visiting 10 Neighbors
+ZCZC W06 120 L13 GSGS and Update TOP 10 
+ZCZC W06  20 L14 Assignment#4
+ZCZC W06   5 L15 Assignment#5
+ZCZC W06   2 L16 Assignment#6
