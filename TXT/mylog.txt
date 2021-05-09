@@ -75,3 +75,11 @@ ZCZC W07 120 L13 GSGS and Update Top 10 List
 ZCZC W07  45 L14 Assignment#4
 ZCZC W07   5 L15 Update log
 ZCZC W07   2 L16 Assignment#6
+ZCZC W08  40 L01 Scele Related
+ZCZC W08 150 L02 Zoom Related
+ZCZC W08  30 L11 Read some reference
+ZCZC W08 160 L12 Visit neighbors and make top 10 list
+ZCZC W08 300 L13 Assignment#3
+ZCZC W08  10 L14 Assignment#4
+ZCZC W08   5 L15 Assignment#5
+ZCZC W08   1 L16 Assignment#6
